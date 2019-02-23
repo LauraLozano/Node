@@ -6,4 +6,4 @@
 5. [**classes**](AnimalClass.js)<br/>
 
 
-all these examples were taken from the video [A Beginner's Guide to JavaScript's Prototype] (https://www.youtube.com/watch?v=XskMWBXNbp0). Chanel : [TylerMcGinnis.com] (https://www.youtube.com/user/irideabanana)
+all these examples were taken from the video [A Beginner's Guide to JavaScript's Prototype](https://www.youtube.com/watch?v=XskMWBXNbp0). Chanel : [TylerMcGinnis.com](https://www.youtube.com/user/irideabanana)
