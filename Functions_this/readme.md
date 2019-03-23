@@ -11,7 +11,7 @@
 10. [**Object arrow function**](10_Object_arrow_function.js)<br/>
 11. [**call arrow function**](11_call_arrow_function.js)<br/>
 12. [**Instance properties**](12_instance_properties.js)<br/>
-13. [**Arrow functions instance**](13_arrow_functions _instance.js)<br/>
+13. [**arrow functions instance**](13_arrow_functions_instance.js)<br/>
 
 
 all these examples were taken from the video [Understanding Functions and 'this' In The World of ES2017](https://www.youtube.com/watch?v=AOSYY1_np_4). Chanel : [Coding Tech ](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
