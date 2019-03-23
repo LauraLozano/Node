@@ -17,7 +17,7 @@
 all these examples were taken from the video [Understanding Functions and 'this' In The World of ES2017](https://www.youtube.com/watch?v=AOSYY1_np_4). Chanel : [Coding Tech ](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
 Dudas:
-No entiendo en si cual es el valor global.
-() => esto indica que es un arrow function ?
-minuto 23:37 no entiendo las intancias
-No me queda completamente claro las arrow functions
+No entiendo en si cual es el valor global.<br/>
+() => esto indica que es un arrow function ?<br/>
+minuto 23:37 no entiendo las intancias<br/>
+No me queda completamente claro las arrow functions<br/>
