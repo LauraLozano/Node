@@ -1,0 +1,12 @@
+{
+    "name": "Videotutorial PWA Básico",
+    "short_name": "VT PWA",
+    "lang": "es",
+    "start_url": "/",
+    "display": "fullscreen",
+    "theme_color": "#c2f442",
+    "icons": [{
+        "src": "agenda.png",
+        "sizes": "64x64"
+    }]
+}
